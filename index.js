@@ -13,8 +13,8 @@ Se XP for maior ou igual a 10.001 = Radiante
 Saída
 */
 
-var nome = 'Midoria'
-var xp = 2500
+var nome = 'Midoria' //variável que retem o nome, pode ser mudada se assim o desejar
+var xp = 2500 //variável que retem a experiência, pode ser mudada se assim o desejar
 var nomenclaturas = ["Ferro","Bronze","Prata","Ouro","Platina","Ascendente","Imortal","Radiante"]
 
 
